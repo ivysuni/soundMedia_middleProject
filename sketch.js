@@ -32,18 +32,18 @@ function draw() {
     
   fill('#e7b497');
   strokeWeight(0);
-  triangle(618, 334, 609, 274, 674, 310);
+  triangle(618, 335, 609, 274, 674, 310);
   
   fill('#cf9d7a');
   strokeWeight(0);
-  triangle(645, 360, 708, 336, 674, 310);
+  triangle(644, 360, 708, 336, 674, 310);
   
   
   
   //hairband
   fill('#2a2231');
   strokeWeight(0);
-  triangle(752, 378, 708, 335, 786, 327);
+  triangle(753, 378, 708, 335, 786, 327);
   
   fill('#4b4164');
   strokeWeight(0);

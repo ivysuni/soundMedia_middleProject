@@ -20,7 +20,7 @@ function draw() {
   //skin
   fill('#f0c5b4');
   strokeWeight(0);
-  triangle(572, 344, 617, 335, 568, 316);
+  triangle(570, 345, 618, 335, 568, 316);
   
   fill('#d8b9b6');
   strokeWeight(0);
@@ -28,7 +28,7 @@ function draw() {
   
   fill('#eac0b0');
   strokeWeight(0);
-  triangle(609, 274, 617, 335, 568, 316);
+  triangle(609, 274, 618, 338, 568, 316);
     
   fill('#e7b497');
   strokeWeight(0);
@@ -36,7 +36,9 @@ function draw() {
   
   fill('#cf9d7a');
   strokeWeight(0);
-  triangle(645, 360, 707, 334, 674, 310);
+  triangle(645, 360, 708, 336, 674, 310);
+  
+  
   
   //hairband
   fill('#2a2231');
@@ -69,7 +71,7 @@ function draw() {
   
   fill('#6866a5');
   strokeWeight(0);
-  quad(708, 334, 674, 311, 653, 229, 697, 271);
+  quad(708, 336, 674, 311, 653, 229, 697, 271);
   
   fill('#58588b');
   strokeWeight(0);
@@ -79,4 +81,47 @@ function draw() {
   strokeWeight(0);
   triangle(653, 229, 757, 230, 754, 270);
   
+  fill('#3D649C');
+  strokeWeight(0);
+  triangle(825, 214, 757, 230, 740, 127);
   
+  fill('#929dcb');
+  strokeWeight(0);
+  triangle(674, 311, 609, 274, 653, 229);
+  
+  fill('#939cd1');
+  strokeWeight(0);
+  triangle(676, 164, 757, 230, 653, 229);
+  
+  fill('#6c7dd0');
+  strokeWeight(0);
+  triangle(676, 164, 757, 230, 740, 127);
+  
+  fill('#9fbaf1');
+  strokeWeight(0);
+  triangle(592, 210, 609, 274, 653, 229);
+  
+  fill('#9fbaf1');
+  strokeWeight(0);
+  triangle(591, 209, 609, 274, 653, 229);
+  
+  fill('#9eace3');
+  strokeWeight(0);
+  triangle(591, 209, 676, 164, 653, 229);
+  
+  fill('#9DB3E2');
+  strokeWeight(0);
+  triangle(591, 209, 609, 274, 546, 255);
+  
+  fill('#bcd1f3');
+  strokeWeight(0);
+  triangle(591, 209, 676, 164, 583, 149);
+  
+  fill('#bfd4fb');
+  strokeWeight(0);
+  triangle(671, 119, 676, 164, 583, 149);
+  
+  fill('#D3E0F5');
+  strokeWeight(0);
+  triangle(671, 119, 676, 164, 740, 127);
+}
